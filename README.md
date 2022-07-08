@@ -1,5 +1,10 @@
-# fileUploadAPI
+# File Upload API
 
-A simple API that enables multiple file upload.
+A simple API that enables multiple files upload.
 
-Built with node.js, express and formidable
+## Technologies
+- Node.js
+- express
+- formidable
+
+
